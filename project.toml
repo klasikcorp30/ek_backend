@@ -1,6 +1,0 @@
-[[build.buildpacks]]
-id = "gcr.io/buildpacks/dotnet"
-
-[build.env]
-GOOGLE_RUNTIME_VERSION = "8.0"
-ASPNETCORE_ENVIRONMENT = "Production"
