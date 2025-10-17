@@ -6,4 +6,4 @@ runtime_config:
       operating_system: "ubuntu22"
       
 options:
-  logging: CLOUD_LOGGING_ONLY
+      logging: CLOUD_LOGGING_ONLY
