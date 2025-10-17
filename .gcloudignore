@@ -4,7 +4,6 @@
 .gitignore
 README.md
 .dockerignore
-Dockerfile
 .gcloudignore
 
 # Node.js dependencies
