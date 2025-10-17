@@ -9,3 +9,6 @@ steps:
 
 images:
   - 'gcr.io/$PROJECT_ID/ekklesia-api'
+  
+options:
+  logging: CLOUD_LOGGING_ONLY
