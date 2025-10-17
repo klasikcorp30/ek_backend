@@ -1,6 +1,6 @@
 # Ekklesia Church Directory API
 
-A comprehensive .NET 9 Web API backend for managing church directories and registrations.
+A comprehensive .NET 8 Web API backend for managing church directories and registrations.
 
 ## Features
 
