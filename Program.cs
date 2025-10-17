@@ -9,6 +9,10 @@ using Ekklesia.Api.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Configure port for Google Cloud Run
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
+
 // Add services to the container.
 builder.Services.AddControllers();
 
