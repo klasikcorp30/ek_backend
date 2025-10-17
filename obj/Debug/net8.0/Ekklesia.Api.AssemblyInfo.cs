@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ekklesia.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7b11e4e5e40c0c088b5a817e38ac7e21e8e6fab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+872b106af62ae9769ffa312345a4c1332291a06d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ekklesia.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ekklesia.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
